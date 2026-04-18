@@ -1,5 +1,5 @@
 # SealSight — AI Image Watermarking
-### IdeaJam 2026 | Problem #13
+
 
 Semantic-aware, crop-resistant watermarking for AI-generated images.
 
@@ -114,4 +114,3 @@ curl -X POST http://localhost:8000/verify \
 
 ---
 
-*Built for IdeaJam 2026 — MIJ Problem Statement #13*
